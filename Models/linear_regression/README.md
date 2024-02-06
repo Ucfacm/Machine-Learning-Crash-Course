@@ -1,0 +1,5 @@
+This folder holds two jupyter notebooks for linear regression, as well as a csv file for wine quality in red wine. Start with lin_reg, which has the first model computed in the notebook, then
+move to model 2 which has the linear regression model called to compute. After you go through both examples, apply it to your own data set and save it in a separate notebook. You can use either 
+jupyter notebook as your base, since calculating it verses calling it only adds a couple lines of code, but I still want you to see how its computed. Finally, add to the end of your new notebook
+a way to increase the performance of your model through feature adjustment or model adjustment and compare the RMSE and R^2 values (look in code to learn about these). Have fun with it and message
+me if you have any issues!
